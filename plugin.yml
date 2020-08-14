@@ -1,0 +1,7 @@
+name: NoArrow
+main: GodWeedZao\NoArrow\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: GodWeedZao
+description: Remove Arrow's after hit in to the Blocks in your pmmp server.
